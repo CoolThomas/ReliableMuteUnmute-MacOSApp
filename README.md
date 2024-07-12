@@ -3,7 +3,8 @@
 # Reliable Mute Unmute - MacOS App
 
 ## App Description
-**Reliable Mute Unmute** is a simple yet reliable app that runs entirely in the menu status bar at the top of your screen. You can mute/unmute all audio inputs with your favorite shortcut. Change colors.  
+**Reliable Mute Unmute** is a simple yet reliable app that runs entirely in the menu status bar at the top of your screen.    
+You can mute/unmute all audio inputs with your favorite shortcut. Change colors.  
 Plus, the **Mic Protector feature** can help you identify if NSA/CIA/FBI wants to wiretap your mic by unmuting it. ;)  
 
 Fun Fact - 95% of the code was written by ChatGPT, only a few times had to debug it's halucinations.  
@@ -14,8 +15,8 @@ Works only on Apple M processors.
 - **Mute/Unmute all audio inputs in macOS with your keyboard shortcut**
 - **Change shortcut to what you need**
 - **State of mute/unmute visible all the time in the top menu bar**
-- **Any colors you want - Change color indicators for mute and unmute** 
-(text file opens, update hex color value, save file, close and open app again)
+- **Any colors you want - Change color indicators for mute and unmute**  
+  (text file opens, update hex color value, save file, close and open app again)
 - **Toggle color mode to enable transparent background**
 - **Mic Protector - makes sure when you switch to Mute with shortcut, you stay Muted**
 
