@@ -1,7 +1,8 @@
 # Reliable Mute Unmute - MacOS App
 
 ## App Description
-**Reliable Mute Unmute** is a simple yet reliable app that runs entirely in the menu status bar at the top of your screen. You can mute/unmute all audio inputs with your favorite shortcut. Change colors. Plus, the Mic Protector feature can help you identify if NSA/CIA/FBI wants to wiretap your mic by unmuting it. ;)  
+**Reliable Mute Unmute** is a simple yet reliable app that runs entirely in the menu status bar at the top of your screen. You can mute/unmute all audio inputs with your favorite shortcut. Change colors.  
+Plus, the Mic Protector feature can help you identify if NSA/CIA/FBI wants to wiretap your mic by unmuting it. ;)  
 Works only on Apple M processors.
 
 ## Features
@@ -17,14 +18,16 @@ Mic Protector ensures that when you switch to Mute with a shortcut, you stay Mut
 
 In this situation, the Mic Protector feature automatically detects the unmute attempt and mutes you again instantly. When such a situation occurs, you will hear a special audio notification to recognize that some process/app tried to unmute you unsuccessfully. The counter of total "Mic Protector Events" is displayed in the context menu, allowing you to check how many such events occurred since the app was launched.
 
-You want to check if Mic Protector really works? No problemo, go to System Settings -> Sound, mute yourself with a shorcut, and try to change the input volume. You wi
+**You want to check if Mic Protector really works?**  
+No problemo, go to System Settings -> Sound, mute yourself with a shorcut, and try to change the input volume. You will hear a system sound indicating the Mic Protector event (you are instantly muted again on all audio inputs), and event counter in context menu will increase. 
 
 ## Installation Instructions
 1. Download the `.dmg` file.
 2. Copy-paste the app to the Applications folder.
-3. During the first run, you will need to allow system settings to open apps not signed by Apple. This is a standard procedure.
+3. After launching app the first time, you will need to allow system settings to open apps not signed by Apple. This is a standard procedure, you might need to go to settings -> privacy & security -> open anyway button at the bottom. 
+4. Then you system will ask for granting access to Accesibility feature (needed for keyboard shortcuts to work).
 
-**Note:** I have only a personal Apple developer account and do not code commercially. Since Apple charges $99 to Apple sign the apps with their logo, I would rather give it for free.
+**Note:** I have only a personal Apple developer account and do not code commercially. Since Apple charges $99 to Apple sign the apps with their blessing, I would rather give it for free.
 
 ## License Information
 Distributed under the MIT License. See `LICENSE` for more information.
