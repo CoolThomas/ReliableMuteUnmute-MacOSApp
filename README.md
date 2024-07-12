@@ -4,7 +4,7 @@
 
 ## App Description
 **Reliable Mute Unmute** is a simple yet reliable app that runs entirely in the menu status bar at the top of your screen. You can mute/unmute all audio inputs with your favorite shortcut. Change colors.  
-Plus, the** Mic Protector feature** can help you identify if NSA/CIA/FBI wants to wiretap your mic by unmuting it. ;)  
+Plus, the **Mic Protector feature** can help you identify if NSA/CIA/FBI wants to wiretap your mic by unmuting it. ;)  
 
 Fun Fact - 95% of the code was written by ChatGPT, only a few times had to debug it's halucinations.  
 
