@@ -40,7 +40,7 @@ No problemo, go to System Settings -> Sound, mute yourself with a shorcut, and t
 1. Download the `.dmg` file.
 2. Copy-paste the app to the Applications folder.
 3. After launching app the first time, you will need to allow system settings to open apps not signed by Apple. This is a standard procedure, you might need to go to settings -> privacy & security -> open anyway button at the bottom. 
-4. Then you system will ask for granting access to Accesibility feature (needed for keyboard shortcuts to work).
+4. Then system will ask for granting access to Accesibility feature (needed for keyboard shortcuts to work).
 
 **Note:** I have only a personal Apple developer account and do not code commercially. Since Apple charges $99 to Apple sign the apps with their blessing, I would rather give it for free.
 
