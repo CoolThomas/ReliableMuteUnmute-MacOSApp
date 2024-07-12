@@ -1,4 +1,4 @@
-<img width="659" alt="Screenshot 2024-07-11 at 20 40 03" src="https://github.com/user-attachments/assets/f4aa7421-0c5b-45e2-bfc9-0a34011aa243">
+<img width="657" alt="Screenshot 2024-07-11 at 20 40 25" src="https://github.com/user-attachments/assets/1edf9da4-fe6f-475e-941a-ae734e6cd816">
 
 # Reliable Mute Unmute - MacOS App
 
@@ -9,9 +9,9 @@ Works only on Apple M processors.
 
 ## Features
 - **Mute/Unmute all audio inputs in macOS with your keyboard shortcut**
-- **Change shortcut**
+- **Change shortcut to what you need**
 - **State of mute/unmute visible all the time in the top menu bar**
-- **Change color indicators for mute and unmute** (text file opens, update hex color value)
+- **Any colors you want - Change color indicators for mute and unmute** (text file opens, update hex color value)
 - **Toggle color mode to enable transparent background**
 - **Mic Protector - makes sure when you switch to Mute with shortcut, you stay Muted**
 
@@ -23,6 +23,14 @@ In this situation, the Mic Protector feature automatically detects the unmute at
 **You want to check if Mic Protector really works?**  
 No problemo, go to System Settings -> Sound, mute yourself with a shorcut, and try to change the input volume. You will hear a system sound indicating the Mic Protector event (you are instantly muted again on all audio inputs), and event counter in context menu will increase. 
 
+## Screenshots
+<img width="659" alt="Screenshot 2024-07-11 at 20 40 03" src="https://github.com/user-attachments/assets/f4aa7421-0c5b-45e2-bfc9-0a34011aa243">
+<img width="659" alt="Screenshot 2024-07-11 at 20 39 46" src="https://github.com/user-attachments/assets/58cbb077-d1a1-4306-b865-53e7483b60f2">
+<img width="657" alt="Screenshot 2024-07-11 at 20 40 10" src="https://github.com/user-attachments/assets/21e6bfb8-deee-42a7-80dd-f5dd685d65e1">
+<img width="656" alt="Screenshot 2024-07-11 at 20 40 14" src="https://github.com/user-attachments/assets/671f9bd8-fb54-4a5c-a5c9-57c02a63153a">
+<img width="657" alt="Screenshot 2024-07-11 at 20 40 25" src="https://github.com/user-attachments/assets/7778b3dd-85a5-434d-bf4c-a532d0eebd32">
+
+
 ## Installation Instructions
 1. Download the `.dmg` file.
 2. Copy-paste the app to the Applications folder.
@@ -33,7 +41,3 @@ No problemo, go to System Settings -> Sound, mute yourself with a shorcut, and t
 
 ## License Information
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Screenshots
-![Screenshot 1](url/to/screenshot1)
-![Screenshot 2](url/to/screenshot2)
