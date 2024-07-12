@@ -1,8 +1,10 @@
+<img width="659" alt="Screenshot 2024-07-11 at 20 40 03" src="https://github.com/user-attachments/assets/f4aa7421-0c5b-45e2-bfc9-0a34011aa243">
+
 # Reliable Mute Unmute - MacOS App
 
 ## App Description
 **Reliable Mute Unmute** is a simple yet reliable app that runs entirely in the menu status bar at the top of your screen. You can mute/unmute all audio inputs with your favorite shortcut. Change colors.  
-Plus, the Mic Protector feature can help you identify if NSA/CIA/FBI wants to wiretap your mic by unmuting it. ;)  
+Plus, the** Mic Protector feature** can help you identify if NSA/CIA/FBI wants to wiretap your mic by unmuting it. ;)  
 Works only on Apple M processors.
 
 ## Features
